@@ -62,3 +62,29 @@ dismathportfolio-arldivino created by Classroom for GitHub
 ##Week 5
 
 - Counterexamples
+- Mathematical Induction
+- Proof by equivalences
+
+##Week 6
+- Program Correctness
+- Recursive Algorithms
+- Summation
+
+##Week 7
+- Set theory
+- Functions
+- Different Types of functions
+
+##Week 8
+- Algorithms
+- Pseudocodes
+
+##Week 9
+- Searching Algorithms
+- Sorting Algorithms
+- Greedy Algorithms
+
+##Week 10
+- Big O-Notations
+- Big Omega Notations and Big Theta Notations
+- Algorithm time comlpexity
