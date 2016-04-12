@@ -88,3 +88,15 @@ dismathportfolio-arldivino created by Classroom for GitHub
 - Big O-Notations
 - Big Omega Notations and Big Theta Notations
 - Algorithm time comlpexity
+
+##Week 11
+- Graph Theory
+- Handshaking Theorem
+- Euler Circuit and Euler Paths
+- Hamiltonian Path and Hamiltionian Circuits
+- Planar Graphs
+
+##Week 12
+- Graph Coloring
+- Trees
+- Statement Tables
